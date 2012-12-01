@@ -1,9 +1,15 @@
+body { max-width: 25em ; font-size: 99.9%; font-family: "Times New Roman", serif; }
 
+h1 { font-size: 1.3em; font-variant: small-caps; font-weight: normal; }
 
-body { max-width: 25em; font-family: "Times New Roman", serif; }
+h1, p { margin-left: 50px; padding-left: 0; }
 
-h1 { text-align: center; font-size: 1.2em; }
+p { page-break-inside: avoid; position: relative; word-break: hyphenate; }
 
-h1 { font-variant: small-caps; font-weight: normal; }
+strong { position: absolute; left: -2em; }
 
-strong {  }
+p {
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	hyphens: auto;
+}

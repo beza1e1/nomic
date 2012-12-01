@@ -1,8 +1,10 @@
 # Preamble
 
-Die aktuellen Regeln finden sich unter folgender URL: ...
-
-Die Spieler sind ...
+Dieses Spiel basiert auf Nomic
+und besteht darin die Spielregeln zu verändern.
+Die Gewinnbedingungen sind initial bewusst langweilig,
+so dass die Spieler motiviert sind,
+das Spiel spannender zu gestalten.
 
 # Regeln
 
@@ -10,7 +12,7 @@ Die Spieler sind ...
 Gewinner des Spiels ist, wer mindestens 100 Punkte erreicht hat.
 
 **102**
-Ein Spielleiter verwaltet den aktuellen Regelsatz für alle Spieler zugänglich.
+Der Spielleiter verwaltet den aktuellen Regelsatz für alle Spieler zugänglich.
 Ebenso den Punktestand und aktuelle Anträge.
 
 **103**
@@ -31,10 +33,10 @@ Wenn eine Abstimmungen einstimmig Pro ist, wird der entsprechende Antrag ausgef�
 Falls nur veränderliche Regeln betroffen sind, genügen 51% Pro.
 
 **106**
-Die Regeln 100-199 sind unveränderlich und alle anderen Regeln veränderlich.
+Jede Regel muss eine eindeutige Nummer haben.
 
 **107**
-Jede Regel muss eine eindeutige Nummer haben.
+Die Regeln 100 bis 199 sind unveränderlich und alle anderen Regeln veränderlich.
 
 **108**
 Im Fall eines Konflikts zwischen zwei oder mehr Regeln,
@@ -42,33 +44,28 @@ haben unveränderliche Regeln Vorrang vor Veränderlichen Vorrang.
 Sekundär hat die Regel mit der höchsten Ordnungszahl den Vorrang.
 
 **201**
-Sollte ein Spieler ein Paradoxon in diesen Regeln entdecken, so hat er gewonnen.
+Falls ein Spieler ein Paradoxon in diesen Regeln entdeckt, so hat er gewonnen.
 
 **202**
-Jeder Spieler beginnt mit null Punkten.
+Jeder Spieler beginnt mit 0 Punkten.
 
 **203**
 Wird ein Antrag abgelehnt, so werden dem Antragsteller 10 Punkte abgezogen.
 
 **204**
-Ist ein Votum positiv, so werden dem Antragsteller 10 Punkte zugerechnet.
+Ist eine Abstimmung positiv, so werden dem Antragsteller 10 Punkte zugerechnet.
 
 **205**
-Jede Antrag muss aufgeschrieben werden bevor darüber abgestimmt wird.
-
-**206**
 Wenn Spieler verschiedene Interpretationen einer Regel haben,
 entscheidet der Spielleiter, welche Interpretation gültig ist.
 
-**207**
-Zu jedem Antrag soll vor der Abstimmung eine angemessene Zeit für Änderungsanträge gegeben werden.
-Der Antragsteller bestimmt die endgültige Form in der der Antrag zur Abstimmung steht.
+**206**
+Jedem Antrag soll vor der Abstimmung eine angemessene Zeit für Antragsänderungen gegeben werden.
+Der Antragsteller bestimmt die endgültige Form in welcher der Antrag zur Abstimmung steht.
 
 **301**
-Spielleiter ist ...
+Der Spielleiter ist ...
 
 # Anhang
-
-Dieses Spiel basiert auf den Regeln von Nomic.
 
 <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.de"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br />Dieses Werk bzw. Inhalt steht unter einer <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.de">Creative Commons Namensnennung 3.0 Unported Lizenz</a>.
