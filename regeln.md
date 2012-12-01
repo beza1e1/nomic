@@ -12,36 +12,37 @@ das Spiel spannender zu gestalten.
 Gewinner des Spiels ist, wer mindestens 100 Punkte erreicht hat.
 
 **102**
-Der Spielleiter verwaltet den aktuellen Regelsatz für alle Spieler zugänglich.
-Ebenso den Punktestand und aktuelle Anträge.
-
-**103**
 Jeder Spieler darf Anträge zur Abstimmung per E-Mail an den Spielleiter einreichen.
-Anträge sind entweder eine Änderung einer bestehenden veränderlichen Regel
-oder eine neue zusätzliche veränderliche Regel
-oder einer Nummeränderung einer unveränderlichen Regel.
+Anträge sind entweder
+eine Änderung einer bestehenden veränderlichen Regel oder
+eine neue zusätzliche veränderliche Regel oder
+eine Nummeränderung einer beliebigen Regel.
 Abgesehen davon gibt es keine Möglichkeit Spielregeln zu verändern.
 
-**104**
+**103**
 Jeder Spieler ist stimmberechtigt.
 Jeder Stimmberechtigte ist zur Teilnahme an allen Abstimmungen verpflichtet
 und muss mit Pro oder Contra abstimmen.
 Enthaltung ist nicht erlaubt.
 
-**105**
+**104**
 Wenn eine Abstimmungen einstimmig Pro ist, wird der entsprechende Antrag ausgeführt.
 Falls nur veränderliche Regeln betroffen sind, genügen 51% Pro.
 
-**106**
+**105**
 Jede Regel muss eine eindeutige Nummer haben.
 
-**107**
+**106**
 Die Regeln 100 bis 199 sind unveränderlich und alle anderen Regeln veränderlich.
 
-**108**
+**107**
 Im Fall eines Konflikts zwischen zwei oder mehr Regeln,
 haben unveränderliche Regeln Vorrang vor Veränderlichen Vorrang.
 Sekundär hat die Regel mit der höchsten Ordnungszahl den Vorrang.
+
+**108**
+Der Spielleiter verwaltet den aktuellen Regelsatz für alle Spieler zugänglich.
+Ebenso den Punktestand und aktuelle Anträge.
 
 **201**
 Falls ein Spieler ein Paradoxon in diesen Regeln entdeckt, so hat er gewonnen.
@@ -54,6 +55,7 @@ Wird ein Antrag abgelehnt, so werden dem Antragsteller 10 Punkte abgezogen.
 
 **204**
 Ist eine Abstimmung positiv, so werden dem Antragsteller 10 Punkte zugerechnet.
+Außerdem bekommt jeder Spieler, der "Pro" gestimmt hat 2 Punkt zugerechnet.
 
 **205**
 Wenn Spieler verschiedene Interpretationen einer Regel haben,
