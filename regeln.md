@@ -26,20 +26,17 @@ Jeder Stimmberechtigte ist zur Teilnahme an allen Abstimmungen verpflichtet
 und muss mit Pro oder Contra abstimmen.
 Enthaltung ist nicht erlaubt.
 
-**106**
+**105**
 Wenn eine Abstimmungen einstimmig Pro ist, wird der entsprechende Antrag ausgeführt.
 Falls nur veränderliche Regeln betroffen sind, genügen 51% Pro.
 
-**105**
-Einem Spieler steht es jederzeit frei aus dem Spiel auszuscheiden.
-
-**107**
+**106**
 Die Regeln 100-199 sind unveränderlich und alle anderen Regeln veränderlich.
 
-**108**
+**107**
 Jede Regel muss eine eindeutige Nummer haben.
 
-**207**
+**108**
 Im Fall eines Konflikts zwischen zwei oder mehr Regeln,
 haben unveränderliche Regeln Vorrang vor Veränderlichen Vorrang.
 Sekundär hat die Regel mit der höchsten Ordnungszahl den Vorrang.
@@ -48,25 +45,22 @@ Sekundär hat die Regel mit der höchsten Ordnungszahl den Vorrang.
 Sollte ein Spieler ein Paradoxon in diesen Regeln entdecken, so hat er gewonnen.
 
 **202**
-Regeländerungen sind nur bei veränderlichen Regeln möglich.
-
-**203**
 Jeder Spieler beginnt mit null Punkten.
 
-**204**
+**203**
 Wird ein Antrag abgelehnt, so werden dem Antragsteller 10 Punkte abgezogen.
 
-**205**
+**204**
 Ist ein Votum positiv, so werden dem Antragsteller 10 Punkte zugerechnet.
 
-**206**
+**205**
 Jede Antrag muss aufgeschrieben werden bevor darüber abgestimmt wird.
 
-**208**
+**206**
 Wenn Spieler verschiedene Interpretationen einer Regel haben,
 entscheidet der Spielleiter, welche Interpretation gültig ist.
 
-**209**
+**207**
 Zu jedem Antrag soll vor der Abstimmung eine angemessene Zeit für Änderungsanträge gegeben werden.
 Der Antragsteller bestimmt die endgültige Form in der der Antrag zur Abstimmung steht.
 
@@ -77,3 +71,4 @@ Spielleiter ist ...
 
 Dieses Spiel basiert auf den Regeln von Nomic.
 
+<a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.de"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br />Dieses Werk bzw. Inhalt steht unter einer <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.de">Creative Commons Namensnennung 3.0 Unported Lizenz</a>.
