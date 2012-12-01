@@ -70,6 +70,4 @@ Der Antragsteller bestimmt die endgültige Form in welcher der Antrag zur Abstim
 **301**
 Der Spielleiter ist ...
 
-## Anhang
-
-<a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.de"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br />Dieses Werk bzw. Inhalt steht unter einer <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.de">Creative Commons Namensnennung 3.0 Unported Lizenz</a>.
+## Ende
