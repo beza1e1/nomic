@@ -24,12 +24,12 @@ Abgesehen davon gibt es keine Möglichkeit Spielregeln zu verändern.
 **103**
 Jeder Spieler ist stimmberechtigt.
 Jeder Stimmberechtigte ist zur Teilnahme an allen Abstimmungen verpflichtet
-und muss mit Pro oder Contra abstimmen.
+und muss mit "Pro" oder "Contra" abstimmen.
 Enthaltung ist nicht erlaubt.
 
 **104**
-Wenn eine Abstimmungen einstimmig Pro ist, wird der entsprechende Antrag ausgeführt.
-Falls nur veränderliche Regeln betroffen sind, genügen 51% Pro.
+Wenn eine Abstimmungen einstimmig "Pro" ist, wird der entsprechende Antrag ausgeführt.
+Falls nur veränderliche Regeln betroffen sind, genügen 51% "Pro".
 
 **105**
 Jede Regel muss eine eindeutige Nummer haben.
