@@ -1,4 +1,6 @@
-# Preamble
+% Nomic Regeln
+
+## Preamble
 
 Dieses Spiel basiert auf Nomic
 und besteht darin die Spielregeln zu verändern.
@@ -6,7 +8,7 @@ Die Gewinnbedingungen sind initial bewusst langweilig,
 so dass die Spieler motiviert sind,
 das Spiel spannender zu gestalten.
 
-# Regeln
+## Regeln
 
 **101**
 Gewinner des Spiels ist, wer mindestens 100 Punkte erreicht hat.
@@ -68,6 +70,6 @@ Der Antragsteller bestimmt die endgültige Form in welcher der Antrag zur Abstim
 **301**
 Der Spielleiter ist ...
 
-# Anhang
+## Anhang
 
 <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.de"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br />Dieses Werk bzw. Inhalt steht unter einer <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.de">Creative Commons Namensnennung 3.0 Unported Lizenz</a>.
