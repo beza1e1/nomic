@@ -55,7 +55,7 @@ Wird ein Antrag abgelehnt, so werden dem Antragsteller 10 Punkte abgezogen.
 
 **204**
 Ist eine Abstimmung positiv, so werden dem Antragsteller 10 Punkte zugerechnet.
-Außerdem bekommt jeder Spieler, der "Pro" gestimmt hat 2 Punkt zugerechnet.
+Außerdem bekommt jeder Spieler, der "Pro" gestimmt hat 2 Punkte zugerechnet.
 
 **205**
 Wenn Spieler verschiedene Interpretationen einer Regel haben,
