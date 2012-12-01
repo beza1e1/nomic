@@ -1,4 +1,6 @@
-body { max-width: 25em ; font-size: 99.9%; font-family: "Times New Roman", serif; }
+body { max-width: 25em ; font-size: 99.9%;
+	font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+}
 
 h1 { font-size: 1.3em; font-variant: small-caps; font-weight: normal; }
 
