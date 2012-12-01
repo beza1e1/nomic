@@ -2,28 +2,33 @@
 
 Die aktuellen Regeln finden sich unter folgender URL: ...
 
+Die Spieler sind ...
+
 # Regeln
 
 ## 101
-Der Spielleiter verwaltet den aktuellen Regelsatz für alle Spieler zugänglich.
-Ebenso den Punktestand und aktuelle Anträge.
+Gewinner des Spiels ist, wer mindestens 100 Punkte erreicht hat.
 
 ## 102
-Gewinner des Spiels ist, wer mindestens 100 Punkte erreicht hat.
+Ein Spielleiter verwaltet den aktuellen Regelsatz für alle Spieler zugänglich.
+Ebenso den Punktestand und aktuelle Anträge.
 
 ## 103
 Jeder Spieler darf Anträge zur Abstimmung per E-Mail an den Spielleiter einreichen.
-Anträge sind entweder eine Regeländerung einer bestehenden veränderlichen Regel
+Anträge sind entweder eine Änderung einer bestehenden veränderlichen Regel
 oder eine neue zusätzliche veränderliche Regel
 oder einer Nummeränderung einer unveränderlichen Regel.
 Abgesehen davon gibt es keine Möglichkeit Spielregeln zu verändern.
 
 ## 104
 Jeder Spieler ist stimmberechtigt.
-Jeder Stimmberechtigte ist zur Teilnahme an allen Abstimmungen verpflichtet.
+Jeder Stimmberechtigte ist zur Teilnahme an allen Abstimmungen verpflichtet
+und muss mit Pro oder Contra abstimmen.
+Enthaltung ist nicht erlaubt.
 
 ## 106
-Abstimmungen müssen einstimmig sein damit der Antrag gültig wird.
+Wenn eine Abstimmungen einstimmig Pro ist, wird der entsprechende Antrag ausgeführt.
+Falls nur veränderliche Regeln betroffen sind, genügen 51% Pro.
 
 ## 105
 Einem Spieler steht es jederzeit frei aus dem Spiel auszuscheiden.
@@ -36,7 +41,7 @@ Jede Regel muss eine eindeutige Nummer haben.
 
 ## 207
 Im Fall eines Konflikts zwischen zwei oder mehr Regeln,
-haben unveränderliche Regeln Vorrang vor Veränderlichen.
+haben unveränderliche Regeln Vorrang vor Veränderlichen Vorrang.
 Sekundär hat die Regel mit der höchsten Ordnungszahl den Vorrang.
 
 ## 201
@@ -66,10 +71,7 @@ Zu jedem Antrag soll vor der Abstimmung eine angemessene Zeit für Änderungsant
 Der Antragsteller bestimmt die endgültige Form in der der Antrag zur Abstimmung steht.
 
 ## 301
-Der Spielleiter ...
-
-## 302
-Die Spieler sind ...
+Spielleiter ist ...
 
 # Anhang
 
