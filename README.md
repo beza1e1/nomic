@@ -1,18 +1,16 @@
 # Nomic
 
-> Nomic ist eine Gattung von Spielen, deren Regeln selbstreferenziell sind
-und von den Spielern geändert werden können.
+> Nomic is a game in which changing the rules is a move
 
-Diese Variante hier ist dazu gedacht Nomic mit ein paar Freunden
-über längere Zeit zu spielen.
+This variant is intended to play nomic with a few friends over
+longer time.
 
-## Änderungen der Grundregeln
+## Changes to the Common Initial Rules
 
-* Die Regeln wurden stark gekürzt und vereinfacht,
-  um den Spielstart zu erleichtern.
+* The rules were shortened and simplified to provide an easier start.
 
-* Die Regeln wurden auf asynchrones Spielen angepasst,
-  so dass es keine Runden oder Reihenfolge unter den Spielern gibt.
+* The rules were adapted for asynchronous games,
+  so there is no round or order between players.
 
-* Das Spiel hat (anfangs) einen (diktatorischen) Spielleiter,
-  was die Regeln über Richter und Uneinigkeiten vereinfacht.
+* The game (initially) has a dictator,
+  which simplifies the initial rules for judges and conflicts.
