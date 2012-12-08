@@ -1,26 +1,27 @@
-body { max-width: 25em ; font-size: 99.9%;
-	font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
-}
+Spieler und Punkte
+------------------
 
-h2, th { font-weight: normal; }
+-   Andreas, 0
+-   Joachim, 0
 
-h2, th { font-variant: small-caps; }
+Anträge
+-------
 
-h2 { font-size: 1.3em; }
-h3 { font-size: 1.0em; }
+### Neu, Andreas
 
-h2, h3, p, ul, ol, table { margin-left: 50px; padding-left: 0; }
+Kein Antrag gilt rückwirkend.
 
-p { page-break-inside: avoid; position: relative; word-break: hyphenate; }
+  Pro       Contra   Offen
+  --------- -------- -------
+  Joachim            
+  Andreas            
 
-strong { position: absolute; left: -2em; }
+### Änderung, Joachim
 
-p {
-	-webkit-hyphens: auto;
-	-moz-hyphens: auto;
-	hyphens: auto;
-}
+**301** Der Spielleiter ist Joachim
 
-table { border: 1px solid #000; border-width: 1px 0; }
-td, tr { padding: 2px 5px; }
-td, tr { margin: 0; }
+  Pro       Contra    Offen
+  --------- --------- -------
+  Joachim   Andreas   
+
+
